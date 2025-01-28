@@ -21,7 +21,7 @@ const Hero = () => {
       </div>
       <div className="relative h-full flex flex-col justify-center max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
-          Custom Pole Buildings Since 1965
+          Texmo Quality Pole Buildings
         </h1>
         <p className="mt-6 text-xl text-brand-light max-w-3xl">
           Serving Whatcom, Skagit, and San Juan Counties with quality Pole Building Construction. 
