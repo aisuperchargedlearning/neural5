@@ -4,7 +4,7 @@ import { Amplify } from 'aws-amplify';
 import App from './App.tsx';
 import './index.css';
 
-// Initialize AWS Amplify
+// Configure Amplify to use your API endpoint
 Amplify.configure({
   API: {
     endpoints: [
